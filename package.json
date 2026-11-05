@@ -1,0 +1,24 @@
+{
+  "name": "project-3d-scroll-system",
+  "version": "1.0.0",
+  "description": "Decoupled Frontend & Backend Architecture for 3D Scroll Video Landing Page",
+  "type": "module",
+  "scripts": {
+    "start": "node start.mjs",
+    "dev": "node start.mjs",
+    "dev:backend": "node backend/server.js",
+    "dev:frontend": "node frontend/dev-server.js",
+    "start:backend": "node backend/server.js",
+    "start:frontend": "node frontend/dev-server.js"
+  },
+  "keywords": [
+    "scroll-video",
+    "decoupled",
+    "frontend",
+    "backend",
+    "scrollytelling",
+    "streaming"
+  ],
+  "author": "",
+  "license": "ISC"
+}

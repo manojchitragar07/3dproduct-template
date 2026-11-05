@@ -1,0 +1,19 @@
+{
+  "name": "p3d-frontend",
+  "version": "1.0.0",
+  "description": "Frontend scrollytelling UI for Project 3D",
+  "type": "module",
+  "scripts": {
+    "start": "node dev-server.js",
+    "dev": "node dev-server.js"
+  },
+  "keywords": [
+    "frontend",
+    "scrollytelling",
+    "video-scroll",
+    "ui"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
